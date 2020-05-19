@@ -7,6 +7,5 @@ class Cat
   end 
 end 
 
-maru = Cat.new 
-maru.name = "Maru"
+
 

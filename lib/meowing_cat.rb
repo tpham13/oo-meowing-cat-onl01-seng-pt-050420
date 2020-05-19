@@ -1,6 +1,6 @@
 ## code your solution here. 
 class Cat 
-  def in
+  attr_accessor 
 end 
 
 maru = Cat.new 

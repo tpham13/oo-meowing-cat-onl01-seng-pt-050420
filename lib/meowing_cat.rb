@@ -1,9 +1,8 @@
 ## code your solution here. 
 class Cat 
-  attr_accessor :name, :meow
-  def initialize(name, meow)
+  attr_accessor :name
+  def initialize(name)
     @name = name
-    @meow = meow 
   end 
 end 
 
